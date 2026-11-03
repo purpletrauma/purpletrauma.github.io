@@ -1,4 +1,41 @@
-body {
-  margin: 5;
-  background-color: #7D54B3;
+
+
+#rowA {
+display:flex;
+flex-direction:column;
+justify-content: flex-end;
+  justify-content: center;
+  align-items: center;
+background-color: #995992;
+background-size:cover;
+background-position: center;
 }
+
+#rowB {
+display:flex;
+flex-direction:column;
+justify-content: flex-end;
+  justify-content: center;
+  align-items: center;
+background-color: #c199cc;
+background-size:cover;
+background-position: center;
+}
+#copywrite {
+
+}
+
+body {
+background-color: #c199cc;
+}
+
+p.about {
+    width:50%;
+    text-indent: 50px;
+}
+
+p.copywrite{
+    font-weight: 750;
+}
+
+
